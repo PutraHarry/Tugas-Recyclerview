@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Daftar Web Browser</string>
+
+    <string-array name="web_browser">
+        <item>Google Chrome</item>
+        <item>Microsoft Edge</item>
+        <item>Mozzila Firefox</item>
+        <item>Opera</item>
+        <item>Safari</item>
+        <item>Tor</item>
+        <item>UC Browser</item>
+        <item>Vivaldi</item>
+        <item>Harry Putra</item>
+    </string-array>
+
+    <string-array name="descriptiona">
+        <item>Google Chrome adalah sebuah peramban web sumber terbuka yang dikembangkan oleh Google dengan menggunakan mesin rendering WebKit. Proyek sumber terbukanya sendiri dinamakan Chromium. Versi beta untuk Microsoft Windows diluncurkan pada 2 September 2008 dalam 43 bahasa. Versi Mac OS X dan Linux sudah dirilis.</item>
+        <item>Microsoft Edge, awalnya dikembangkan di bawah nama kode Project Spartan, adalah peramban web yang dikembangkan oleh Microsoft dan termasuk dalam sistem operasi Windows. Resmi dirilis pada tanggal 29 Juli 2015, peramban ini menggantikan Internet Explorer sebagai peramban baku pada Windows 10. Hal ini juga akan menjadi peramban baku dari rilis yang akan datang dari Windows 10 untuk telepon cerdas dan tablet kecil. Microsoft Edge kini juga sudah tersedia untuk platform Android dan iOS.</item>
+        <item>Mozilla Firefox (aslinya bernama Phoenix dan kemudian untuk sesaat dikenal sebagai Mozilla Firebird) adalah peramban web lintas platform bebas dan sumber terbuka yang dikembangkan oleh Yayasan Mozilla dan ratusan sukarelawan.</item>
+        <item>Opera adalah peramban web dan paket perangkat lunak Internet antar-platform. Opera terdiri dari kumpulan perangkat lunak untuk Internet seperti peramban web, serta perangkat lunakuntuk membaca dan mengirim surat elektronik. Opera dibuat oleh Opera Software yang bermarkas di Oslo, Norwegia. Opera dapat dijalankan di berbagai sistem operasi, termasuk Microsoft Windows, Mac OS X, Solaris, FreeBSD dan Linux.</item>
+        <item>Safari adalah sebuah peramban web buatan Apple Inc. yang awalnya ditujukan khusus bagi sistem operasi Mac OS. Safari dipasang bersama Mac OS X dan merupakan peramban web bawaan di sistem operasi tersebut sejak Mac OS X v10.3. Sebelumnya dari tahun 1997 hingga 2003, Mac OS X menggunakan Internet Explorer for Mac sebagai peramban web bawaan. Pada 11 Juni 2007, versi pratayang untuk Windows baik yang cocok untuk Windows XP dan Windows Vista dari Safari diperkenalkan pada Muktamar Pengembang Sedunia Apple di San Francisco.</item>
+        <item>The Onion Router atau Tor adalah server yang membuat pengguna menjadi anonim dalam internet. Tor bekerja dengan cara mengarahkan lalu-lintas internet melalui jaringan sukarelawan yang disediakan dengan gratis dan di seluruh dunia, dengan lebih dari 4.000 relay.Tor berfungsi menyembunyikan pengguna internet. Orang yang menggunakan jaringan tor menggunakan jaringan onion routers. Hal ini membuat lokasi pengguna tetap rahasia.</item>
+        <item>UC Browser adalah sebuah aplikasi penjelajah web untuk telepon genggam yang diluncurkan pada tahun 2004. UC Browser dapat digunakan di semua sistem operasi telepon genggam. Pada Juni 2011, UCWeb merilis U3 kernel, produk hak milik perusahaan (mirip seperti mesin mobil). Browser yang memiliki U3 dapat memberikan user pengalaman web surfing yang cepat, nyaman dan aman.</item>
+        <item>Vivaldi merupakan peramban web gratis yang dikembangkan oleh Vivaldi Technologies, sebuah perusahaan yang didirikan oleh pendiri dan mantan CEO Opera Software Jon Stephenson von Tetzchner, dan Tatsuki Tomita.Peramban ini ditujukan kepada pengguna Opera yang tidak menyukai transisi dari Presto ke Blink, yang menyebabkan hilangnya fitur populer dalam peramban itu. Vivaldi ditujukan untuk menghidupkan kembali fitur populer Opera 12 dan memperkenalkan fitur inovatif terbaru.</item>
+        <item>Nama: I Gde Putu Harry Putra Pratama\nNim: 1805551047\nJurusan Teknologi Informasi\nUniversitas Udayana</item>
+
+    </string-array>
+</resources>
